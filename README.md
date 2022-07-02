@@ -2,4 +2,4 @@
 Apresentação de algumas anotações
 
 ## Links Uteis
-[Sintaxe para Markdown] (https://www.markdownguide.org/)
+[Sintaxe para Markdown](https://www.markdownguide.org/)
